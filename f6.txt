@@ -1,0 +1,4 @@
+1 Bheem 100
+2 chutki 95
+3 Jaggu 90
+40 Kaliya 80

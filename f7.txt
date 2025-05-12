@@ -1,0 +1,4 @@
+1 Bheem  100
+2 Chutki 90
+3 Jaggu  80
+4 Raju   70

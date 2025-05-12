@@ -1,0 +1,8 @@
+n=1
+case $n in
+1 ) echo "sunday"
+;;
+2 ) echo "monday"
+;;
+esac
+
